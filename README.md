@@ -1,4 +1,4 @@
-# Thermal-Visual Human Pose Estimation with YOLO11-pose. 
+## Thermal-Visual Human Pose Estimation with YOLO11-pose 
 <img src="https://github.com/IS2AI/multispectral-motion-analysis/blob/main/abstract.png">
 
 Download checkpoints (nano, small, medium, large, and x-large) from [Google Drive](https://drive.google.com/file/d/1dGsVGgy-AUoQUraY2azS1dq6Ax2_UilY/view?usp=sharing).
